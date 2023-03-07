@@ -5,7 +5,8 @@ body{
 }
 
 h1{
-    font-family: "Brush Script MT";
+  //  font-family: "Brush Script MT";
+   font-family: "Simple Brush Script"
     font-size: 35px;
    
 }
