@@ -68,3 +68,10 @@ button{
     width: 759px;
     height: 341px;
   }
+
+  @media (orientation: portrait) {
+    
+    h1{
+        background-color: white;
+    }
+  }
