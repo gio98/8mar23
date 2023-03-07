@@ -69,9 +69,13 @@ button{
     height: 341px;
   }
 
-  @media (orientation: portrait) {
+ @media (orientation: portrait) {
     
     h1{
         background-color: white;
+    }
+    .mar {
+        width: 312px;
+        height: 286px;
     }
   }
